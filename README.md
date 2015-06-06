@@ -1,7 +1,8 @@
-Media Queries for Meteor
-========================
+### Media Queries for Meteor
 
-Use
+Media query template helpers and session variables with bootstrap 3 brakepoints.
+
+# Use
 
     meteor add robwatkin:mediaquery-bootstrap-3
 
