@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'robwatkin:mediaquery-bootstrap-3',
+  name: 'robsw:mediaquery-bootstrap-3',
   version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'Sets (and exposes via template helpers) session variables for screen size, orientation and retina on bootstrap 3 brakepoints',
