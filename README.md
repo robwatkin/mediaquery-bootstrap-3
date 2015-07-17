@@ -4,7 +4,7 @@ Media query template helpers and session variables with bootstrap 3 brakepoints.
 
 # Use
 
-    meteor add robwatkin:mediaquery-bootstrap-3
+    meteor add robsw:mediaquery-bootstrap-3
 
 This package sets some Meteor Session variables to reflect the current screen size according to bootstrap 3 breakpoints as follows.
 
