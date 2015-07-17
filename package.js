@@ -1,6 +1,6 @@
 Package.describe({
   name: 'robsw:mediaquery-bootstrap-3',
-  version: '1.0.0',
+  version: '1.0.1',
   // Brief, one-line summary of the package.
   summary: 'Media query template helpers and session variables with bootstrap 3 brakepoints',
   // URL to the Git repository containing the source code for this package.
@@ -11,6 +11,6 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.1.0.3');
+  api.versionsFrom('1.1.0.2');
   api.addFiles('mediaquery.js', 'client');
 });
