@@ -1,6 +1,6 @@
 ### Media Queries for Meteor
 
-Media query template helpers and session variables with bootstrap 3 brakepoints.
+Media query template helpers and session variables with bootstrap 3 breakpoints.
 
 # Use
 
